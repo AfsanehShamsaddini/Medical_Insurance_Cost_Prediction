@@ -63,7 +63,7 @@ To analyze the factors influencing medical insurance costs and build predictive 
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone <[repo_link](https://github.com/AfsanehShamsaddini/Medical_Insurance_Cost_Prediction/tree/main)>
+git clone [repo_link](https://github.com/AfsanehShamsaddini/Medical_Insurance_Cost_Prediction/tree/main)
 
 # Run the notebook
 jupyter notebook Medical_Insurance_Cost_Prediction.ipynb
